@@ -9,5 +9,5 @@ welcome to my personal portfolio respository ! this website is designed to showc
   ## technologies used
   *HTML
   *CSS
-   
+![Image Alt Text](image-ss1.png,ss2.png,ss3.png)
 
